@@ -1,5 +1,6 @@
 +++
 title = 'Surgical Gender Affirming Care: Vaginoplasty'
+tags = ['non-core', 'medical', 'procedure']
 draft = true
 +++
 ## STUB

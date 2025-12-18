@@ -9,7 +9,7 @@ Initially this site will focus exclusively on various rights Trans people don't 
 
 ## Why not a Wiki?
 
-While the content here *could* be placed on a wiki. I both do not wish to moderate a wiki, setup a wiki (and all the authentication & mail systems), or deal with Griefers defacing a wiki. It's (hopefully) easer to moderate a github project. 
+While the content here *could* be placed on a wiki. I both do not wish to moderate a wiki, setup a wiki (and all the authentication & mail systems), or deal with Griefers defacing a wiki. It's (hopefully) easer to moderate a github project.
 
 # Licence:
 

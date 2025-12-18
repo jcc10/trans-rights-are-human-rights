@@ -1,6 +1,6 @@
 +++
-title = 'Medical Gender Affirming Care: HRT'
-tags = ['core', 'medical']
+title = 'Medical Gender Affirming Care: Estrogen HRT'
+tags = ['core', 'medical', 'hrt']
 draft = true
 +++
 ## STUB

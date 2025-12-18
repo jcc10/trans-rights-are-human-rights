@@ -1,5 +1,6 @@
 +++
 title = 'Legal Gender Affirming Care: Name Changes'
+tags = ['core', 'legal']
 draft = true
 +++
 ## STUB

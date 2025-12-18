@@ -1,5 +1,6 @@
 +++
 title = 'Surgical Gender Affirming Care: Breast Augmentation'
+tags = ['core', 'medical', 'procedure']
 draft = true
 +++
 ## STUB

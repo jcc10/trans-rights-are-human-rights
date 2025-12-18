@@ -1,5 +1,6 @@
 +++
 title = 'Legal Gender Affirming Care: Gender Specific Rooms'
+tags = ['non-core', 'legal', 'culture']
 draft = true
 +++
 ## STUB
